@@ -1,0 +1,5 @@
+init:
+- ECHO %PYTHON%
+environment:
+  matrix:
+  - PYTHON: C:/Python36-x64
