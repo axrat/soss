@@ -1,1 +1,8 @@
-box: python:3.6-slim
+box: wercker/python
+build:
+  steps:
+    - virtualenv:
+        name: setup virtual environment
+    - pip-install
+    - script:
+        name: execute test
