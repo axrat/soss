@@ -14,5 +14,4 @@ build: off
 
 test_script:
   - "%PYTHON%/Scripts/pip.exe --version"
-  - "%PYTHON%/Scripts/http.exe --debug"
   - "%PYTHON%/python.exe setup.py test"
