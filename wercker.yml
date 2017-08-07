@@ -4,5 +4,9 @@ build:
     - virtualenv:
         name: setup virtual environment
     - pip-install
-    - script:
-        name: execute test
+    - create-file:
+        name: Create a message file.
+        filename: hello/message.cfg
+        overwrite: true
+        content: Hi! This message will be written to the message config file!
+
