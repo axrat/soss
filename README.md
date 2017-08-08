@@ -7,4 +7,3 @@
 [![CircleCI](https://circleci.com/gh/onoie/soss.svg?style=svg)](https://circleci.com/gh/onoie/soss)
 [![Coverage Status](https://coveralls.io/repos/github/onoie/soss/badge.svg?branch=master)](https://coveralls.io/github/onoie/soss?branch=master)
 [![Code Climate](https://codeclimate.com/github/onoie/soss/badges/gpa.svg)](https://codeclimate.com/github/onoie/soss)
-[![codecov](https://codecov.io/gh/onoie/soss/branch/master/graph/badge.svg)](https://codecov.io/gh/onoie/soss)
